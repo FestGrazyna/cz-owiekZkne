@@ -1,6 +1,7 @@
 # "człowiek z KNE"- Wisława Szymborska
+![](https://i1.jbzd.com.pl/contents/2021/11/normal/R3lVH5ZGGAtMDHrddFSAP75n0qaG7Ptz.jpg)
 
-<br> Gdy nastała ta godzina,
+<br> Gdy nastała ta godzina
 <br> **Marta** Daily ropoczyna.
 <br> "Gdzie jest **Seba** do cholery?"
 <br> - takie frontów są maniery.
@@ -11,7 +12,7 @@
 <br> - **Łukasz** myśli przekazuje,
 <br> Jednak **Patryk** go hamuje:
 <br> "Ograniczmy trochę straty,
-<br> Puścmy najpierw automaty!"
+<br> Puśćmy najpierw automaty!"
 <br> **Magda** testy więc szykuje,
 <br> Może proda uratuje....
 <br> Gdy już backend pomarudził,
@@ -36,17 +37,19 @@
 <br> Tu makiety jej brakuje...
 <br> Jednak **Szymon** ją ratuje!
 <br> Historyjka też niepełna...
-<br> **Łukasz** ją więc uzupełnia.
+<br> **Łukasz** ją więc uzupełnia ;)
 <br> Bugów także jest w trzy dupy,
 <br> Nic się tam nie trzyma kupy...
-<br> **Gabi** sraczkę myśli ma
+<br> **Gabi** natłok myśli ma
 <br> - "Co tu zrobić? Kuwa mać!"
 <br> Wtem szatański plan wymyśla,
 <br> -"Włączę w to naszego **Krzyśka**!"
 <br> Już dm-kę mu szykuje,
 <br> Trochę krwi mu dziś popsuje!
-<br> Na co **Krzysiek**: "O mój borze!
+<br> **Krzysiek** myśli: "O mój Thorze!
 <br> Z nią jest orka na ugorze!"
+<br> Jednak radę śle Mazepie:
+<br> "Się nie przejmuj! Się wyklepie!"
 <br> I tak dzień za dniem tam mija,
 <br> Aż się kończy wreszcie PI.
 <br> System demo nadszedł już,
