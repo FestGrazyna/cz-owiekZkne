@@ -1,5 +1,5 @@
 # "człowiek z KNE"- Wisława Szymborska
-![](https://i1.jbzd.com.pl/contents/2021/11/normal/R3lVH5ZGGAtMDHrddFSAP75n0qaG7Ptz.jpg)
+
 
 <br> Gdy nastała ta godzina
 <br> **Marta** Daily ropoczyna.
@@ -60,3 +60,4 @@
 <br> chwila ciszy... Kuwa! działa!
 <br> **Seba** oddech już załapał,
 <br> W końcu tyle dziur załatał.
+<br> ![](https://i1.jbzd.com.pl/contents/2021/11/normal/R3lVH5ZGGAtMDHrddFSAP75n0qaG7Ptz.jpg)
